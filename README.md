@@ -1,5 +1,7 @@
 # Simrail Community - EDR
 
+This is a fork with some bugfixes
+
 ## Enhanced timetable experience for Simrail dispatch posts
 
 The project aims to provide a better, easier to understand and modern timetable experience for dispatchers compared to the official built-in timetable in the game. Created by [@DKFN](https://github.com/DKFN). Currently maintained by [@Tallyrald](https://github.com/Tallyrald)

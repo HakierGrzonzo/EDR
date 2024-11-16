@@ -7,10 +7,10 @@ export const BASE_SELF_API = `http://localhost:${process.env.LISTEN_PORT}/`;
 export const BASE_OSRM_API = `http://${process.env.OSRM_HOST ?? 'localhost'}:5000/`;
 
 export const srHeaders = {
-    "User-Agent": "Simrail.app EDR vDEV",
+    "User-Agent": "Simrail.app EDR vDEV (hakiergrzonzo fork)",
     "xx-client": "Simrail.app EDR",
-    "xx-maintainer": "CrypterEmerald",
-    "xx-contact": "tally.github@gmail.com",
+    "xx-maintainer": "hakiergrzonzo",
+    "xx-contact": "admin@grzegorzkoperwas.site",
 };
 
 export const newInternalIdToSrId: {[k: string]: number} = {
