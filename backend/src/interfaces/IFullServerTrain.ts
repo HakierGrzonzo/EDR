@@ -3,5 +3,5 @@ import { IEdrServerTrain } from "./IEdrServerTrain";
 import { IFullTrainTimetable } from "./IFullTrainTimetable";
 
 export interface IFullServerTrain extends IAllServerTrain, IEdrServerTrain {
-    timetable: IFullTrainTimetable[];
+  timetable: IFullTrainTimetable[];
 }
